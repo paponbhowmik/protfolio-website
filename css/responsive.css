@@ -1,0 +1,602 @@
+@media (min-width: 320px) and (max-width: 575px){
+/* back to top st */
+.top-button a {
+	background-color: #f44336bf;
+	right: 17px;
+}
+/* back to top end */
+/********************
+    home page st
+********************/
+
+    /* menu st */
+    #menu .menu-iteam .logo{
+        width: 100%;
+    }
+    #menu .menu-iteam .iteam{
+        position: fixed;
+        top: 0;
+        right: -300px;
+        background-color: #f44336;
+        width: 200px;
+        text-align: left;
+        height: 100vh;
+        z-index: 2;
+        transition: 0.5s;
+        -webkit-transition: 0.5s;
+        -moz-transition: 0.5s;
+        -ms-transition: 0.5s;
+        -o-transition: 0.5s;
+}
+    #menu .menu-iteam .iteam ul li{
+        display: block;
+    }
+    #menu .menu-iteam .iteam ul{
+        padding: 20px;
+    }
+    #menu .menu-iteam .iteam ul li a {
+        padding: 0 0 20px 0;
+    }
+    .menu-icon{
+        display: block;
+        font-size: 22px;
+        color: white;
+        cursor: pointer;
+        margin: 6px;
+    }
+    .close-icon{
+        display: block;
+        font-size: 22px;
+        color: white;
+        cursor: pointer;
+        margin: 6px;
+    }
+    /* menu end */
+    /* banner st */
+    #banner .banner-text h1{
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    #banner .banner-text p {
+        font-size: 12px;
+        width: 83%;
+    }
+    /* banner end */
+    /* course st */
+    .title {
+        padding: 60px;
+    }
+    .title h1 {
+        font-size: 26px;
+    }
+    .title p {
+        font-size: 11px;
+    }
+    #course .container .course-detail p {
+        font-size: 13px;
+    }
+    /* course end */
+    /* facilities st */
+    #facilities .container .facilities-pic .facilities-detail h3 {
+        margin: 16px 0 10px 5px;
+    }
+    /* facilities end */
+    /* testimonial st */
+    .title {
+        padding: 23px;
+    }
+    #testimonial .container .testimonial-slider .user1 .user-detail p {
+        font-size: 4px;
+        font-weight: 700;
+    }
+    #testimonial .container .testimonial-slider .user1 .user-detail h3 {
+        font-size: 6px;
+        font-weight: 700;
+        margin-top: -3px;
+        text-align: center;
+    }
+    #testimonial .container .testimonial-slider .user1 .user-detail .user-icon a {
+        font-size: 8px;
+    }
+    #testimonial .slick-dots li {
+        margin: 0 5px;
+    }
+    #testimonial .slick-dots {
+        bottom: -56%;
+        left: 45%;
+    }
+    /* testimonial end */
+    /* contact st */
+    #contact {
+        padding: 1px 0;
+    }
+    #contact .container .contact-detail {
+        width: 100%;
+        margin: 50px auto;
+    }
+    #contact .container .contact-detail h1 {
+        font-size: 28px;
+    }
+    /* contact end */
+    /* fotter st */
+    #fotter .container .fotter-detail p {
+        width: 100%;
+    }
+    /* fotter end */
+
+/********************
+    home page end
+********************/
+
+/********************
+    about page st
+********************/
+#about .about-detail {
+	width: 100%;
+	padding: 0 0 0 0;
+	text-align: center;
+}
+/********************
+    about page end
+********************/
+
+/********************
+    blog page st
+********************/
+#blog-banner .banner-text h1 {
+	font-size: 25px;
+}
+/********************
+    blog page end
+********************/
+}
+@media (min-width: 576px) and (max-width: 767px){
+    /* back to top st */
+    .top-button a {
+        background-color: #f44336bf;
+        right: 17px;
+        bottom: 250px;
+    }
+    /* back to top end */
+    /********************
+        home page st
+    ********************/
+    
+        /* menu st */
+        #menu .menu-iteam .logo{
+            width: 100%;
+        }
+        #menu .menu-iteam .iteam{
+            position: fixed;
+            top: 0;
+            right: -300px;
+            background-color: #f44336;
+            width: 200px;
+            text-align: left;
+            height: 100vh;
+            z-index: 2;
+            transition: 0.5s;
+            -webkit-transition: 0.5s;
+            -moz-transition: 0.5s;
+            -ms-transition: 0.5s;
+            -o-transition: 0.5s;
+    }
+        #menu .menu-iteam .iteam ul li{
+            display: block;
+        }
+        #menu .menu-iteam .iteam ul{
+            padding: 20px;
+        }
+        #menu .menu-iteam .iteam ul li a {
+            padding: 0 0 20px 0;
+        }
+        .menu-icon{
+            display: block;
+            font-size: 22px;
+            color: white;
+            cursor: pointer;
+            margin: 6px;
+        }
+        .close-icon{
+            display: block;
+            font-size: 22px;
+            color: white;
+            cursor: pointer;
+            margin: 6px;
+        }
+        /* menu end */
+        /* banner st */
+        #banner .banner-text h1{
+            font-size: 33px;
+            margin-bottom: 20px;
+        }
+        #banner .banner-text p {
+            font-size: 10px;
+            width: 83%;
+        }
+        /* banner end */
+        /* course st */
+        .title {
+            padding: 60px;
+        }
+        .title h1 {
+            font-size: 26px;
+        }
+        .title p {
+            font-size: 11px;
+        }
+        #course .container .course-detail p {
+            font-size: 11px;
+        }
+        #course .container .course-detail h3 {
+            font-size: 15px;
+        }
+        /* course end */
+        /* campus st */
+        #campus .container .campus-img .overflow h3 {
+            font-size: 17px;
+        }
+        /* campus end */
+        /* facilities st */
+        #facilities .container .facilities-pic .facilities-detail h3 {
+            margin: 16px 0 10px 5px;
+        }
+        /* facilities end */
+        /* testimonial st */
+        .title {
+            padding: 23px;
+        }
+        #testimonial .container .testimonial-slider .user1 .user-detail p {
+            font-size: 7px;
+            font-weight: 700;
+        }
+        #testimonial .container .testimonial-slider .user1 .user-detail h3 {
+            font-size: 9px;
+            font-weight: 700;
+            margin-top: -3px;
+            text-align: center;
+        }
+        #testimonial .container .testimonial-slider .user1 .user-detail .user-icon a {
+            font-size: 10px;
+        }
+        #testimonial .slick-dots li {
+            margin: 0 5px;
+        }
+        #testimonial .slick-dots {
+            bottom: -56%;
+            left: 45%;
+        }
+        /* testimonial end */
+        /* contact st */
+        #contact {
+            padding: 1px 0;
+        }
+        #contact .container .contact-detail {
+            width: 100%;
+            margin: 50px auto;
+        }
+        #contact .container .contact-detail h1 {
+            font-size: 25spx;
+        }
+        /* contact end */
+        /* fotter st */
+        #fotter .container .fotter-detail p {
+            width: 100%;
+        }
+        /* fotter end */
+    
+    /********************
+        home page end
+    ********************/
+    
+    /********************
+        about page st
+    ********************/
+    #about .about-detail {
+        width: 100%;
+        padding: 0 0 0 0;
+    }
+    #about .about-detail h1 {
+        font-size: 20px;
+    }
+    #about .about-detail p {
+        font-size: 9px;
+        font-weight: 600;
+    }
+    /********************
+        about page end
+    ********************/
+    
+    /********************
+        blog page st
+    ********************/
+    #blog-banner .banner-text h1 {
+        font-size: 34px;
+    }
+    /********************
+        blog page end
+    ********************/
+    }
+@media (min-width: 768px) and (max-width: 991px){
+        /* back to top st */
+        .top-button a {
+            background-color: #f44336bf;
+            right: 17px;
+            bottom: 450px;
+        }
+        /* back to top end */
+        /********************
+            home page st
+        ********************/
+        
+            /* menu st */
+            #menu .menu-iteam .logo{
+                width: 100%;
+            }
+            #menu .menu-iteam .iteam{
+                position: fixed;
+                top: 0;
+                right: -300px;
+                background-color: #f44336;
+                width: 200px;
+                text-align: left;
+                height: 100vh;
+                z-index: 2;
+                transition: 0.5s;
+                -webkit-transition: 0.5s;
+                -moz-transition: 0.5s;
+                -ms-transition: 0.5s;
+                -o-transition: 0.5s;
+        }
+            #menu .menu-iteam .iteam ul li{
+                display: block;
+            }
+            #menu .menu-iteam .iteam ul{
+                padding: 20px;
+            }
+            #menu .menu-iteam .iteam ul li a {
+                padding: 0 0 20px 0;
+            }
+            .menu-icon{
+                display: block;
+                font-size: 22px;
+                color: white;
+                cursor: pointer;
+                margin: 6px;
+            }
+            .close-icon{
+                display: block;
+                font-size: 22px;
+                color: white;
+                cursor: pointer;
+                margin: 6px;
+            }
+            /* menu end */
+            /* banner st */
+            #banner .banner-text h1{
+                font-size: 33px;
+                margin-bottom: 20px;
+            }
+            #banner .banner-text p {
+                font-size: 10px;
+                width: 83%;
+            }
+            /* banner end */
+            /* course st */
+            .title {
+                padding: 60px;
+            }
+            .title h1 {
+                font-size: 26px;
+            }
+            .title p {
+                font-size: 11px;
+            }
+            #course .container .course-detail p {
+                font-size: 11px;
+            }
+            #course .container .course-detail h3 {
+                font-size: 15px;
+            }
+            /* course end */
+            /* blog st */
+            #blog-banner .banner-text h1 {
+                font-size: 40px;
+            }
+            /* blog end */
+            /* campus st */
+            #campus .container .campus-img .overflow h3 {
+                font-size: 17px;
+            }
+            /* campus end */
+            /* facilities st */
+            #facilities .container .facilities-pic .facilities-detail h3 {
+                margin: 16px 0 10px 5px;
+            }
+            /* facilities end */
+            /* contact st */
+            #contact {
+                padding: 1px 0;
+            }
+            #contact .container .contact-detail {
+                width: 100%;
+                margin: 50px auto;
+            }
+            #contact .container .contact-detail h1 {
+                font-size: 32px;
+            }
+            /* contact end */
+            /* fotter st */
+            #fotter .container .fotter-detail p {
+                width: 100%;
+            }
+            /* fotter end */
+        
+        /********************
+            home page end
+        ********************/
+        
+        /********************
+            about page st
+        ********************/
+        #about .about-detail {
+            width: 100%;
+            padding: 0 0 0 0;
+        }
+        #about .about-detail h1 {
+            font-size: 20px;
+        }
+        #about .about-detail p {
+            font-size: 9px;
+            font-weight: 600;
+        }
+        /********************
+            about page end
+        ********************/
+        
+        /********************
+            blog page st
+        ********************/
+        #blog-banner .banner-text h1 {
+            font-size: 34px;
+        }
+        /********************
+            blog page end
+        ********************/
+    }
+@media (min-width: 992px) and (max-width: 1199px){
+        /* back to top st */
+        .top-button a {
+            background-color: #f44336bf;
+            right: 17px;
+            bottom: 300px;
+        }
+        /* back to top end */
+        /********************
+            home page st
+        ********************/
+            /* banner st */
+            #banner .banner-text h1{
+                font-size: 33px;
+                margin-bottom: 20px;
+            }
+            #banner .banner-text p {
+                font-size: 10px;
+                width: 83%;
+            }
+            /* banner end */
+            /* course st */
+            .title {
+                padding: 60px;
+            }
+            .title h1 {
+                font-size: 26px;
+            }
+            .title p {
+                font-size: 11px;
+            }
+            #course .container .course-detail p {
+                font-size: 11px;
+            }
+            #course .container .course-detail h3 {
+                font-size: 15px;
+            }
+            /* course end */
+            /* blog st */
+            #blog-banner .banner-text h1 {
+                font-size: 40px;
+            }
+            /* blog end */
+            /* campus st */
+            #campus .container .campus-img .overflow h3 {
+                font-size: 17px;
+            }
+            /* campus end */
+            /* facilities st */
+            #facilities .container .facilities-pic .facilities-detail h3 {
+                margin: 16px 0 10px 5px;
+            }
+            /* facilities end */
+            /* contact st */
+            #contact {
+                padding: 1px 0;
+            }
+            #contact .container .contact-detail {
+                width: 100%;
+                margin: 50px auto;
+            }
+            #contact .container .contact-detail h1 {
+                font-size: 32px;
+            }
+            #contact-detail .address a {
+                font-size: 23px;
+                margin-top: -12px;
+            }
+            #contact-detail .address h5 {
+                font-size: 13px;
+                font-weight: 700;
+            }
+            #contact-detail .address p {
+                font-size: 12px;
+            }
+            #contact-detail .phone a {
+                font-size: 23px;
+                margin-top: -12px;
+            }
+            #contact-detail .phone h5 {
+                font-size: 13px;
+                font-weight: 700;
+            }
+            #contact-detail .phone p {
+                font-size: 12px;
+            }
+            #contact-detail .email a {
+                font-size: 23px;
+                margin-top: -12px;
+            }
+            #contact-detail .email h5 {
+                font-size: 13px;
+                font-weight: 700;
+            }
+            #contact-detail .email p {
+                font-size: 12px;
+            }
+            /* contact end */
+            /* fotter st */
+            #fotter .container .fotter-detail p {
+                width: 100%;
+            }
+            /* fotter end */
+        
+        /********************
+            home page end
+        ********************/
+        
+        /********************
+            about page st
+        ********************/
+        #about .about-detail {
+            width: 100%;
+            padding: 0 0 0 0;
+        }
+        #about .about-detail h1 {
+            font-size: 20px;
+        }
+        #about .about-detail p {
+            font-size: 9px;
+            font-weight: 600;
+        }
+        /********************
+            about page end
+        ********************/
+        
+        /********************
+            blog page st
+        ********************/
+        #blog-banner .banner-text h1 {
+            font-size: 34px;
+        }
+        /********************
+            blog page end
+        ********************/
+    }
